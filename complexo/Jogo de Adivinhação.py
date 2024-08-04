@@ -20,9 +20,10 @@ class jogo:
             return 'Muito Alto!'
         else:
             return f'Parabéns! Você acertou em {self.tentativas}'
-        
-jogar = jogo()
-print(jogar.tentar_advinhar(50))
 
-print(jogar.numero)
+tentar = int(input('Tenta o numero, capombaaa:'))     
+jogar = jogo()
+print(jogar.tentar_advinhar(tentar))
+
+# batoteiroooo print("Valor aleatorio:", jogar.numero)
     

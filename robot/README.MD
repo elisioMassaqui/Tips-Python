@@ -1,2 +1,4 @@
 
 Em robótica, é essencial trabalhar com diferentes tipos de estruturas de dados para gerenciar a complexidade do controle de robôs, a manipulação de sensores e atuadores, a navegação, e outras tarefas. Abaixo estão algumas estruturas de dados úteis em Python para aplicações robóticas:
+
+Para automatizar as juntas de um robô de duas juntas e realizar mais operações, como movimentos complexos e controle de trajetórias, você pode combinar as estruturas de dados sugeridas anteriormente com algoritmos de controle e automação. Aqui está um exemplo mais completo, que inclui a definição de classes, o uso de NumPy para cálculos e a implementação de uma rotina de controle básico.

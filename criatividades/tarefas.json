@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "tarefa": "Comprar leite",
+        "concluida": false
+    },
+    {
+        "id": 2,
+        "tarefa": "Ler um livro",
+        "concluida": true
+    },
+    {
+        "id": 3,
+        "tarefa": "Fazer exerc\u00edcio",
+        "concluida": false
+    }
+]

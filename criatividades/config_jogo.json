@@ -1,0 +1,11 @@
+{
+    "resolucao": "1920x1080",
+    "fullscreen": true,
+    "volume": 75,
+    "controles": {
+        "mover_para_frente": "W",
+        "mover_para_tras": "S",
+        "mover_para_esquerda": "A",
+        "mover_para_direita": "D"
+    }
+}

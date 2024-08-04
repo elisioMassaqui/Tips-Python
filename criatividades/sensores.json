@@ -1,0 +1,14 @@
+{
+    "sensor_temperatura": {
+        "valor": 22.5,
+        "unidade": "C"
+    },
+    "sensor_umidade": {
+        "valor": 60,
+        "unidade": "%"
+    },
+    "sensor_pressao": {
+        "valor": 1013,
+        "unidade": "hPa"
+    }
+}

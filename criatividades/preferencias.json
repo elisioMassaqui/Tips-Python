@@ -1,0 +1,10 @@
+{
+    "tema": "escuro",
+    "notificacoes": true,
+    "lingua": "pt-BR",
+    "atalhos": {
+        "novo_arquivo": "Ctrl+N",
+        "salvar": "Ctrl+S",
+        "abrir": "Ctrl+O"
+    }
+}

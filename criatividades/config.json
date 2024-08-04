@@ -1,0 +1,20 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "admin",
+        "password": "senha_secreta"
+    },
+    "api_keys": {
+        "service_1": "key_service_1",
+        "service_2": "key_service_2"
+    },
+    "logging": {
+        "level": "DEBUG",
+        "file": "/var/log/app.log"
+    },
+    "features": {
+        "feature_x": true,
+        "feature_y": false
+    }
+}

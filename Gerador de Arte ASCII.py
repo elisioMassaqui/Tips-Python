@@ -19,5 +19,5 @@ def image_to_ascii(image_path, width=100):
     return ascii_str
 
 if __name__ == '__main__':
-    ascii_art = image_to_ascii('path/to/your/image.jpg')
+    ascii_art = image_to_ascii('logo.png')
     print(ascii_art)

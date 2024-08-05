@@ -1,12 +1,12 @@
-import scheduleeee
+import schedule
 import time
 
 def tarefa():
     print("Tarefa executada!")
 
 # Agendar a tarefa para executar a cada minuto
-scheduleeee.every(1).minutes.do(tarefa)
+schedule.every(1).seconds.do(tarefa)
 
 while True:
-    scheduleeee.run_pending()
+    schedule.run_pending()
     time.sleep(1)

@@ -1,0 +1,1 @@
+## Aqui estão alguns exemplos de código para um nível intermediário em Python, cobrindo tópicos como Programação Orientada a Objetos (OOP), manipulação de arquivos e diretórios, módulos e pacotes, tratamento de erros e exceções, e uso de bibliotecas padrão.

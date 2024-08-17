@@ -1,1 +1,1 @@
-# Meu progresso hard em python sou bué mau, porrr######
+# Meu progresso hard em python, sou bué mau, porrr######
